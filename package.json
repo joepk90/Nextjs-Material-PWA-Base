@@ -10,7 +10,9 @@
     "type:check": "tsc --noEmit",
     "analyze": "env ANALYZE=true pnpm build",
     "lint": "eslint --fix \"./src/**/*.{js,jsx,ts,tsx}\"",
-    "types": "tsc"
+    "types": "tsc",
+    "pwaserver": "nodemon ./mockPWAServer/index.js",
+    "pwaserver-chrome": "nodemon ./mockPWAServer/index.js chrome"
   },
   "browserslist": [
     ">0.3%",
