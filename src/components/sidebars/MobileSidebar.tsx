@@ -109,7 +109,6 @@ export const MobileSidebar = memo(function MobileSidebar({
                 mb: 1,
                 mr: 2
               }}
-              src="/app/profile.jpg"
             ></Avatar>
             <Box sx={{ mb: 1 }}>
               <Typography
@@ -119,7 +118,7 @@ export const MobileSidebar = memo(function MobileSidebar({
                 variant="h6"
                 component="p"
               >
-                Ivan Bambino
+                John Smith
               </Typography>
               <Typography
                 sx={{
