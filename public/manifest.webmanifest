@@ -50,22 +50,5 @@
         { "src": "app/shortcuts/profile-shortcut.png", "sizes": "192x192" }
       ]
     }
-  ],
-  "screenshots": [
-    {
-      "src": "app/promotion/screen-1.png",
-      "sizes": "1080x2280",
-      "type": "image/png"
-    },
-    {
-      "src": "app/promotion/screen-2.png",
-      "sizes": "1080x2280",
-      "type": "image/png"
-    },
-    {
-      "src": "app/promotion/screen-3.png",
-      "sizes": "1080x2280",
-      "type": "image/png"
-    }
   ]
 }
